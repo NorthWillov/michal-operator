@@ -8,6 +8,7 @@ const InfoSchema = new mongoose.Schema({
   phone: String,
   instaLink: String,
   youtubeLink: String,
+  linkedInLink: String,
 });
 
 // export UserSchema
